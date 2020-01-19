@@ -1,4 +1,4 @@
-const fetch = require("node-fetch");
+// const fetch = require("node-fetch");
 const HTMLParser = require("node-html-parser");
 const axios = require("axios");
 
